@@ -1,4 +1,4 @@
-package taskManagement;
+package taskManagement.priority;
 
 public enum PriorityLevel {
     LOW,

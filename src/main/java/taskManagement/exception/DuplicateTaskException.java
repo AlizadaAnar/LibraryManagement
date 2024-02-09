@@ -1,4 +1,4 @@
-package taskManagement;
+package taskManagement.exception;
 
 public class DuplicateTaskException extends Throwable{
 

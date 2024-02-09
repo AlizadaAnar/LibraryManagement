@@ -1,10 +1,9 @@
-package taskManagement;
+package taskManagement.main;
 
-import taskManagement.PriorityLevel;
-import taskManagement.TaskManager;
-import taskManagement.Main;
-import taskManagement.DuplicateTaskException;
-import taskManagement.Task;
+import taskManagement.priority.PriorityLevel;
+import taskManagement.taskImpl.TaskManager;
+import taskManagement.entity.Task;
+import taskManagement.exception.DuplicateTaskException;
 
 public class Main {
     public static void main(String[] args) {

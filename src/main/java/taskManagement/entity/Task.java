@@ -1,4 +1,6 @@
-package taskManagement;
+package taskManagement.entity;
+
+import taskManagement.priority.PriorityLevel;
 
 public class Task {
 
